@@ -1,5 +1,5 @@
 import React from "react";
-import Container from "../globals/Container";
+import Container from "../global/Container";
 import Logo from "./Logo";
 import NavSearch from "./NavSearch";
 import CartButton from "./CartButton";
